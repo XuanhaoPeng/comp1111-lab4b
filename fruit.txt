@@ -1,6 +1,9 @@
-apple
+plum
 banana
 orange
 strawberry
 watermelon
 muskmelon
+litchi
+mango
+pear
