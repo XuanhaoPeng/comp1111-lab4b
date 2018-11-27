@@ -4,3 +4,6 @@ television
 watch tv
 video machine
 laptop
+clothes
+chair
+table
