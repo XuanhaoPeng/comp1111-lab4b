@@ -1,7 +1,9 @@
-coca
+cola
 orange juice
 banana juice
 milk
 apple juice
 watermelon juice
-
+water
+tea
+red tea
